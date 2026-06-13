@@ -17,3 +17,6 @@ Personal development log — notes, findings, and ongoing work.
 - Added healthcheck endpoint stub
 - Fixed minor edge case in input handling
 - Added .editorconfig for consistent formatting
+
+## 2026-06-13
+- Wrote notes on upcoming feature design
